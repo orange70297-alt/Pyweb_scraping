@@ -44,7 +44,7 @@ def pchome(items):
     
     while True:
         print(f"\n--- 正在爬取第 {page_count} 頁 ---")
-        time.sleep(2)
+        time.sleep(3)
 
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         time.sleep(2)
@@ -71,7 +71,7 @@ def pchome(items):
             )
             next_page_button.click()
             page_count += 1
-            time.sleep(2)
+            time.sleep(8)
         except NoSuchElementException:
             print("已到達最後一頁，停止爬取")
             break

@@ -6,28 +6,10 @@
     "href": "https://24h.pchome.com.tw/prod/QCACGM-A9008D04N"
   },
   {
-    "name": "AQUATEC FN-500 JetFin 潛水蛙鞋 - 綠色(中性浮力) PG CITY",
-    "price": "$4,500",
-    "img": "https://img.pchome.com.tw/cs/items/QCADKFA90084ZU2/000001_1495524020.jpg?width=480",
-    "href": "https://24h.pchome.com.tw/prod/QCADKF-A90084ZU2"
-  },
-  {
     "name": "AROPEC Alacrity 調整式潛水蛙鞋 F-GY07 / 黑黃",
     "price": "$2,700",
     "img": "https://img.pchome.com.tw/cs/items/DXBL1MA900GO099/000001_1694775805.jpg?width=480",
     "href": "https://24h.pchome.com.tw/prod/DXBL1M-A900GO099"
-  },
-  {
-    "name": "AQUATEC FS-300白鐵邊扣潛水蛙鞋帶 PG CITY",
-    "price": "$1,200",
-    "img": "https://img.pchome.com.tw/cs/items/QCADKFA90095SIW/000001_1530013255.jpg?width=480",
-    "href": "https://24h.pchome.com.tw/prod/QCADKF-A90095SIW"
-  },
-  {
-    "name": "AQUATEC FN-500 JetFin 潛水蛙鞋 - 紅色(中性浮力) PG CITY",
-    "price": "$4,500",
-    "img": "https://img.pchome.com.tw/cs/items/QCADKFA90084ZR5/000001_1495523060.jpg?width=480",
-    "href": "https://24h.pchome.com.tw/prod/QCADKF-A90084ZR5"
   },
   {
     "name": "AQUATEC FN-500 JetFin 潛水蛙鞋 - 黑色(中性浮力) PG CITY",
@@ -36,16 +18,46 @@
     "href": "https://24h.pchome.com.tw/prod/QCADKF-A90084ZKC"
   },
   {
+    "name": "AROPEC Swift 套腳式橡膠蛙鞋 / 橘(M)",
+    "price": "$990",
+    "img": "https://img.pchome.com.tw/cs/items/DXBL1MA900GCPDB/000001_1684813434.jpg?width=480",
+    "href": "https://24h.pchome.com.tw/prod/DXBL1M-A900GCPDB"
+  },
+  {
+    "name": "AQUATEC FN-600 (Blue) 潛水分叉蛙鞋 雙渦流設計 黑藍色 XS/S(適合腳長21.5~23公分)",
+    "price": "$3,200",
+    "img": "https://img.pchome.com.tw/cs/items/QCADKFA90078TTN/000001_1477644733.jpg?width=480",
+    "href": "https://24h.pchome.com.tw/prod/QCADKF-A90078TTN"
+  },
+  {
+    "name": "AROPEC Rock 岩石長筒潛水鞋",
+    "price": "$1,050",
+    "img": "https://img.pchome.com.tw/cs/items/CEACRRA90056GJL/000001_1478320066.jpg?width=480",
+    "href": "https://24h.pchome.com.tw/prod/CEACRR-A90056GJL"
+  },
+  {
+    "name": "AROPEC Skiff 小艇長筒膠底潛水鞋",
+    "price": "$1,090",
+    "img": "https://img.pchome.com.tw/cs/items/QCAD33A90086ZPV/000001_1497509020.jpg?width=480",
+    "href": "https://24h.pchome.com.tw/prod/QCAD33-A90086ZPV"
+  },
+  {
+    "name": "AQUATEC FN-500 JetFin 潛水蛙鞋 - 紅色(中性浮力) PG CITY",
+    "price": "$4,500",
+    "img": "https://img.pchome.com.tw/cs/items/QCADKFA90084ZR5/000001_1495523060.jpg?width=480",
+    "href": "https://24h.pchome.com.tw/prod/QCADKF-A90084ZR5"
+  },
+  {
+    "name": "AQUATEC FS-300白鐵邊扣潛水蛙鞋帶 PG CITY",
+    "price": "$1,200",
+    "img": "https://img.pchome.com.tw/cs/items/QCADKFA90095SIW/000001_1530013255.jpg?width=480",
+    "href": "https://24h.pchome.com.tw/prod/QCADKF-A90095SIW"
+  },
+  {
     "name": "AQUATEC FN-400_MCS 負浮力迷彩噴射蛙王 潛水蛙鞋 迷彩黃色 PG CITY",
     "price": "$4,000",
     "img": "https://img.pchome.com.tw/cs/items/QCADKFA9009A0IP/000001_1536028627.jpg?width=480",
     "href": "https://24h.pchome.com.tw/prod/QCADKF-A9009A0IP"
-  },
-  {
-    "name": "AROPEC Grace 套腳式塑膠潛水蛙鞋 F-GC46 / 藍黑",
-    "price": "$990",
-    "img": "https://img.pchome.com.tw/cs/items/DXBL1MA900GCOY6/000001_1684809749.jpg?width=480",
-    "href": "https://24h.pchome.com.tw/prod/DXBL1M-A900GCOY6"
   },
   {
     "name": "AQUATEC FS-100 快速單手拆卸潛水蛙鞋帶 PG CITY",
@@ -54,10 +66,28 @@
     "href": "https://24h.pchome.com.tw/prod/QCADKF-A90095SIF"
   },
   {
+    "name": "AROPEC Grace 套腳式塑膠潛水蛙鞋 F-GC46 / 藍黑",
+    "price": "$990",
+    "img": "https://img.pchome.com.tw/cs/items/DXBL1MA900GCOY6/000001_1684809749.jpg?width=480",
+    "href": "https://24h.pchome.com.tw/prod/DXBL1M-A900GCOY6"
+  },
+  {
     "name": "AQUATEC FN-500 JetFin 潛水蛙鞋 - 橘色(中性浮力) PG CITY",
     "price": "$4,500",
     "img": "https://img.pchome.com.tw/cs/items/QCADKFA90084ZU7/000001_1495524139.jpg?width=480",
     "href": "https://24h.pchome.com.tw/prod/QCADKF-A90084ZU7"
+  },
+  {
+    "name": "AQUATEC FN-500 JetFin 潛水蛙鞋 - 綠色(中性浮力) PG CITY",
+    "price": "$4,500",
+    "img": "https://img.pchome.com.tw/cs/items/QCADKFA90084ZU2/000001_1495524020.jpg?width=480",
+    "href": "https://24h.pchome.com.tw/prod/QCADKF-A90084ZU2"
+  },
+  {
+    "name": "AQUATEC FN-400_MCS 負浮力迷彩噴射蛙王 潛水蛙鞋 白色 PG CITY",
+    "price": "$4,000",
+    "img": "https://img.pchome.com.tw/cs/items/QCADKFA9009DO67/000001_1536027115.jpg?width=480",
+    "href": "https://24h.pchome.com.tw/prod/QCADKF-A9009DO67"
   },
   {
     "name": "AROPEC Alacrity 調整式潛水蛙鞋 F-GY07 / 黑紅",
@@ -70,12 +100,6 @@
     "price": "$1,200",
     "img": "https://img.pchome.com.tw/cs/items/QCADKFA90095SIG/000001_1530012934.jpg?width=480",
     "href": "https://24h.pchome.com.tw/prod/QCADKF-A90095SIG"
-  },
-  {
-    "name": "AQUATEC FN-400_MCS 負浮力迷彩噴射蛙王 潛水蛙鞋 白色 PG CITY",
-    "price": "$4,000",
-    "img": "https://img.pchome.com.tw/cs/items/QCADKFA9009DO67/000001_1536027115.jpg?width=480",
-    "href": "https://24h.pchome.com.tw/prod/QCADKF-A9009DO67"
   },
   {
     "name": "AQUATEC FN-400_MCS 負浮力迷彩噴射蛙王 潛水蛙鞋 迷彩藍色 PG CITY",
@@ -98,44 +122,20 @@
   {
     "name": "Breathe 自由潛水長蛙鞋箱(硬殼)",
     "price": "$2,500",
-    "img": "https://img.pchome.com.tw/cs/items/DXBL2BA900GCQ92/000001_1684823062.jpg?width=480",
+    "img": "https://img.pchome.com.tw/fs/img/h24/new/index/v1/images/img/mobile_loading.svg",
     "href": "https://24h.pchome.com.tw/prod/DXBL2B-A900GCQ92"
   },
   {
     "name": "AROPEC Shrewd 自由潛水套腳式長蛙鞋 F-U391 / 黑色",
     "price": "$2,880",
-    "img": "https://img.pchome.com.tw/cs/items/DXBL1MA900GNYY2/000001_1715235900.jpg?width=480",
+    "img": "https://img.pchome.com.tw/fs/img/h24/new/index/v1/images/img/mobile_loading.svg",
     "href": "https://24h.pchome.com.tw/prod/DXBL1M-A900GNYY2"
   },
   {
     "name": "FINIS 專業游泳訓練傳統短尾蛙鞋ZOOMER GOLD",
     "price": "$1,260",
-    "img": "https://img.pchome.com.tw/cs/items/QCACGMA9008E9F9/000001_1504800230.jpg?width=480",
+    "img": "https://img.pchome.com.tw/fs/img/h24/new/index/v1/images/img/mobile_loading.svg",
     "href": "https://24h.pchome.com.tw/prod/QCACGM-A9008E9F9"
-  },
-  {
-    "name": "AQUATEC FN-600 (Blue) 潛水分叉蛙鞋 雙渦流設計 黑藍色 XS/S(適合腳長21.5~23公分)",
-    "price": "$3,200",
-    "img": "https://img.pchome.com.tw/cs/items/QCADKFA90078TTN/000001_1477644733.jpg?width=480",
-    "href": "https://24h.pchome.com.tw/prod/QCADKF-A90078TTN"
-  },
-  {
-    "name": "AROPEC Swift 套腳式橡膠蛙鞋 / 橘(M)",
-    "price": "$990",
-    "img": "https://img.pchome.com.tw/fs/img/h24/new/index/v1/images/img/mobile_loading.svg",
-    "href": "https://24h.pchome.com.tw/prod/DXBL1M-A900GCPDB"
-  },
-  {
-    "name": "FINIS 噴射式短尾蛙鞋-ZOOMER Z2小尺寸",
-    "price": "$1,200",
-    "img": "https://img.pchome.com.tw/fs/img/h24/new/index/v1/images/img/mobile_loading.svg",
-    "href": "https://24h.pchome.com.tw/prod/QCACGM-A9008FVYT"
-  },
-  {
-    "name": "LAZULI Mermaid玻纖蛙鞋 含白色腳套 追夢",
-    "price": "$10,300",
-    "img": "https://img.pchome.com.tw/fs/img/h24/new/index/v1/images/img/mobile_loading.svg",
-    "href": "https://24h.pchome.com.tw/prod/DXBL2C-A900J9J8I"
   },
   {
     "name": "LAZULI Mermaid 玻纖蛙鞋 含黑色腳套 追夢",
@@ -144,10 +144,28 @@
     "href": "https://24h.pchome.com.tw/prod/DXBL2C-A900J9GZ0"
   },
   {
+    "name": "FINIS 噴射式短尾蛙鞋-ZOOMER Z2小尺寸",
+    "price": "$1,200",
+    "img": "https://img.pchome.com.tw/fs/img/h24/new/index/v1/images/img/mobile_loading.svg",
+    "href": "https://24h.pchome.com.tw/prod/QCACGM-A9008FVYT"
+  },
+  {
     "name": "MADWAVE 短葉片訓練用蛙鞋 M074710 TRAINING",
     "price": "$1,024",
     "img": "https://img.pchome.com.tw/fs/img/h24/new/index/v1/images/img/mobile_loading.svg",
     "href": "https://24h.pchome.com.tw/prod/QCAC2Q-A90079F6M"
+  },
+  {
+    "name": "LAZULI Mermaid玻纖蛙鞋 含白色腳套 追夢",
+    "price": "$10,300",
+    "img": "https://img.pchome.com.tw/fs/img/h24/new/index/v1/images/img/mobile_loading.svg",
+    "href": "https://24h.pchome.com.tw/prod/DXBL2C-A900J9J8I"
+  },
+  {
+    "name": "AROPEC Swift 套腳式橡膠蛙鞋 / 藍(S)",
+    "price": "$990",
+    "img": "https://img.pchome.com.tw/fs/img/h24/new/index/v1/images/img/mobile_loading.svg",
+    "href": "https://24h.pchome.com.tw/prod/DXBL1M-A900GCPBA"
   },
   {
     "name": "V.DIVE 威帶夫 F537 迷彩 彈簧扣式 技潛橡膠蛙鞋",
@@ -160,12 +178,6 @@
     "price": "$10,300",
     "img": "https://img.pchome.com.tw/fs/img/h24/new/index/v1/images/img/mobile_loading.svg",
     "href": "https://24h.pchome.com.tw/prod/DXBL2C-A900J9JC9"
-  },
-  {
-    "name": "AROPEC Swift 套腳式橡膠蛙鞋 / 藍(S)",
-    "price": "$990",
-    "img": "https://img.pchome.com.tw/fs/img/h24/new/index/v1/images/img/mobile_loading.svg",
-    "href": "https://24h.pchome.com.tw/prod/DXBL1M-A900GCPBA"
   },
   {
     "name": "AQUATEC SMF-100 浮潛三寶(黑色套組) (面鏡+呼吸管+蛙鞋)",
@@ -198,16 +210,16 @@
     "href": "https://24h.pchome.com.tw/prod/DXBL2C-A900J9FK2"
   },
   {
-    "name": "FINIS 噴射式短尾蛙鞋-ZOOMER Z2大尺寸",
-    "price": "$1,590",
-    "img": "https://img.pchome.com.tw/fs/img/h24/new/index/v1/images/img/mobile_loading.svg",
-    "href": "https://24h.pchome.com.tw/prod/QCACGM-A9008FWYX"
-  },
-  {
     "name": "AQUATEC SMF-100 浮潛三寶(藍色套組) (面鏡+呼吸管+蛙鞋)",
     "price": "$2,419",
-    "img": "https://img.pchome.com.tw/fs/img/h24/new/index/v1/images/img/mobile_loading.svg",
+    "img": "https://img.pchome.com.tw/cs/items/QCADKFA9009FHGD/000001_1537499926.jpg?width=480",
     "href": "https://24h.pchome.com.tw/prod/QCADKF-A9009FHGD"
+  },
+  {
+    "name": "FINIS 噴射式短尾蛙鞋-ZOOMER Z2大尺寸",
+    "price": "$1,590",
+    "img": "https://img.pchome.com.tw/cs/items/QCACGMA9008FWYX/000001_1506588322.jpg?width=480",
+    "href": "https://24h.pchome.com.tw/prod/QCACGM-A9008FWYX"
   },
   {
     "name": "V.DIVE 威帶夫 F537 單色 彈簧扣式 技潛橡膠蛙鞋",
@@ -216,52 +228,16 @@
     "href": "https://24h.pchome.com.tw/prod/DXBL2C-A900J29CP"
   },
   {
-    "name": "AQUATEC SN-200 潛水呼吸管 黃色",
-    "price": "$715",
-    "img": "https://img.pchome.com.tw/cs/items/QCADKFA90078TPY/000001_1477641939.jpg?width=480",
-    "href": "https://24h.pchome.com.tw/prod/QCADKF-A90078TPY"
-  },
-  {
-    "name": "AROPEC Rock 岩石長筒潛水鞋",
-    "price": "$1,050",
-    "img": "https://img.pchome.com.tw/cs/items/CEACRRA90056GJL/000001_1478320066.jpg?width=480",
-    "href": "https://24h.pchome.com.tw/prod/CEACRR-A90056GJL"
-  },
-  {
-    "name": "MADWAVE 俄羅斯 ladies aquasocks SPLASH 女用透氣防滑潛水襪/浮潛襪",
-    "price": "$390",
-    "img": "https://img.pchome.com.tw/cs/items/QCAC2QA9007USQW/000001_1485398311.jpg?width=480",
-    "href": "https://24h.pchome.com.tw/prod/QCAC2Q-A9007USQW"
-  },
-  {
-    "name": "AROPEC Aircraft Carrier 航空母艦長筒膠底潛水鞋",
-    "price": "$1,600",
-    "img": "https://img.pchome.com.tw/cs/items/QCAD33A90086ZGL/000001_1497506519.jpg?width=480",
-    "href": "https://24h.pchome.com.tw/prod/QCAD33-A90086ZGL"
-  },
-  {
-    "name": "AQUATEC SN-400 擋浪頭潛水呼吸管 藍色",
-    "price": "$715",
-    "img": "https://img.pchome.com.tw/cs/items/QCADKFA90078TOW/000001_1477642634.jpg?width=480",
-    "href": "https://24h.pchome.com.tw/prod/QCADKF-A90078TOW"
-  },
-  {
     "name": "AROPEC Sailboat 帆船長筒潛水鞋",
     "price": "$1,200",
     "img": "https://img.pchome.com.tw/cs/items/CEACRRA90056GNT/000001_1478320070.jpg?width=480",
     "href": "https://24h.pchome.com.tw/prod/CEACRR-A90056GNT"
   },
   {
-    "name": "AROPEC Skiff 小艇長筒膠底潛水鞋",
-    "price": "$1,090",
-    "img": "https://img.pchome.com.tw/cs/items/QCAD33A90086ZPV/000001_1497509020.jpg?width=480",
-    "href": "https://24h.pchome.com.tw/prod/QCAD33-A90086ZPV"
-  },
-  {
-    "name": "MADWAVE 俄羅斯 men aquasocks SPLASH 男用透氣防滑潛水襪/浮潛襪",
-    "price": "$390",
-    "img": "https://img.pchome.com.tw/cs/items/QCAC2QA9007V4PF/000001_1486085181.jpg?width=480",
-    "href": "https://24h.pchome.com.tw/prod/QCAC2Q-A9007V4PF"
+    "name": "AQUATEC SN-200 潛水呼吸管 黃色",
+    "price": "$715",
+    "img": "https://img.pchome.com.tw/cs/items/QCADKFA90078TPY/000001_1477641939.jpg?width=480",
+    "href": "https://24h.pchome.com.tw/prod/QCADKF-A90078TPY"
   },
   {
     "name": "AROPEC BT-50BF-DPK 毛氈底潛水鞋",
@@ -270,16 +246,40 @@
     "href": "https://24h.pchome.com.tw/prod/QCAD33-A90078HIB"
   },
   {
+    "name": "AROPEC Battleship 戰艦長筒膠底潛水鞋",
+    "price": "$1,200",
+    "img": "https://img.pchome.com.tw/cs/items/QCAD33A90086ZO9/000001_1497508224.jpg?width=480",
+    "href": "https://24h.pchome.com.tw/prod/QCAD33-A90086ZO9"
+  },
+  {
     "name": "AROPEC Areca 檳榔樹短筒潛水鞋",
     "price": "$790",
     "img": "https://img.pchome.com.tw/cs/items/CEACRRA90056G5P/000001_1478320049.jpg?width=480",
     "href": "https://24h.pchome.com.tw/prod/CEACRR-A90056G5P"
   },
   {
-    "name": "AROPEC Battleship 戰艦長筒膠底潛水鞋",
-    "price": "$1,200",
-    "img": "https://img.pchome.com.tw/cs/items/QCAD33A90086ZO9/000001_1497508224.jpg?width=480",
-    "href": "https://24h.pchome.com.tw/prod/QCAD33-A90086ZO9"
+    "name": "AROPEC Aircraft Carrier 航空母艦長筒膠底潛水鞋",
+    "price": "$1,600",
+    "img": "https://img.pchome.com.tw/cs/items/QCAD33A90086ZGL/000001_1497506519.jpg?width=480",
+    "href": "https://24h.pchome.com.tw/prod/QCAD33-A90086ZGL"
+  },
+  {
+    "name": "MADWAVE 俄羅斯 ladies aquasocks SPLASH 女用透氣防滑潛水襪/浮潛襪",
+    "price": "$390",
+    "img": "https://img.pchome.com.tw/cs/items/QCAC2QA9007USQW/000001_1485398311.jpg?width=480",
+    "href": "https://24h.pchome.com.tw/prod/QCAC2Q-A9007USQW"
+  },
+  {
+    "name": "AQUATEC SN-400 擋浪頭潛水呼吸管 藍色",
+    "price": "$715",
+    "img": "https://img.pchome.com.tw/cs/items/QCADKFA90078TOW/000001_1477642634.jpg?width=480",
+    "href": "https://24h.pchome.com.tw/prod/QCADKF-A90078TOW"
+  },
+  {
+    "name": "MADWAVE 俄羅斯 men aquasocks SPLASH 男用透氣防滑潛水襪/浮潛襪",
+    "price": "$390",
+    "img": "https://img.pchome.com.tw/cs/items/QCAC2QA9007V4PF/000001_1486085181.jpg?width=480",
+    "href": "https://24h.pchome.com.tw/prod/QCAC2Q-A9007V4PF"
   },
   {
     "name": "SEABIKE 水中自行車及充氣浮板【 獵人組合】水上活動",
@@ -288,22 +288,10 @@
     "href": "https://24h.pchome.com.tw/prod/DXBL1L-A900FA63T"
   },
   {
-    "name": "FINIS PDF多功能工學蹼-M或L尺寸",
-    "price": "$1,380",
-    "img": "https://img.pchome.com.tw/cs/items/QCACGMA9008D2JP/000001_1503549079.jpg?width=480",
-    "href": "https://24h.pchome.com.tw/prod/QCACGM-A9008D2JP"
-  },
-  {
     "name": "FINIS 多功能工學蹼PDF-XXL尺寸",
     "price": "$1,600",
     "img": "https://img.pchome.com.tw/cs/items/QCACGMA9008D3GD/000001_1738666531.jpg?width=480",
     "href": "https://24h.pchome.com.tw/prod/QCACGM-A9008D3GD"
-  },
-  {
-    "name": "FINIS 快節奏單片分鰭式蹼鞋EVO MONOFIN",
-    "price": "$2,380",
-    "img": "https://img.pchome.com.tw/cs/items/QCACGMA9009RML1/000001_1548430839.jpg?width=480",
-    "href": "https://24h.pchome.com.tw/prod/QCACGM-A9009RML1"
   },
   {
     "name": "LAZULI Bonito 碳纖維競賽款短蛙板 雅致白 含腳套",
@@ -312,10 +300,16 @@
     "href": "https://24h.pchome.com.tw/prod/DXBL2C-A900J9GAO"
   },
   {
-    "name": "LAZULI Aquamarine 極致碳纖維長蛙板 丁香紫 含黑色腳套",
-    "price": "$15,800",
-    "img": "https://img.pchome.com.tw/cs/items/DXBL2CA900J9GEH/000001_1758179955.jpg?width=480",
-    "href": "https://24h.pchome.com.tw/prod/DXBL2C-A900J9GEH"
+    "name": "FINIS 快節奏單片分鰭式蹼鞋EVO MONOFIN",
+    "price": "$2,380",
+    "img": "https://img.pchome.com.tw/cs/items/QCACGMA9009RML1/000001_1548430839.jpg?width=480",
+    "href": "https://24h.pchome.com.tw/prod/QCACGM-A9009RML1"
+  },
+  {
+    "name": "FINIS PDF多功能工學蹼-M或L尺寸",
+    "price": "$1,380",
+    "img": "https://img.pchome.com.tw/cs/items/QCACGMA9008D2JP/000001_1503549079.jpg?width=480",
+    "href": "https://24h.pchome.com.tw/prod/QCACGM-A9008D2JP"
   },
   {
     "name": "FINIS 軟橡膠材質推進式幼兒專用短尾蛙",
@@ -324,10 +318,22 @@
     "href": "https://24h.pchome.com.tw/prod/DXBL26-A900G666C"
   },
   {
+    "name": "LAZULI Aquamarine 極致碳纖維長蛙板 丁香紫 含黑色腳套",
+    "price": "$15,800",
+    "img": "https://img.pchome.com.tw/cs/items/DXBL2CA900J9GEH/000001_1758179955.jpg?width=480",
+    "href": "https://24h.pchome.com.tw/prod/DXBL2C-A900J9GEH"
+  },
+  {
     "name": "FINIS 蝶腰訓練用輕型蹼鞋-FOIL MONOFIN-XS & S 尺寸",
     "price": "$2,060",
     "img": "https://img.pchome.com.tw/cs/items/QCACGMA9008DCDT/000001_1503856829.jpg?width=480",
     "href": "https://24h.pchome.com.tw/prod/QCACGM-A9008DCDT"
+  },
+  {
+    "name": "FINIS 蝶腰訓練專用玻纖材質蹼鞋-進階款",
+    "price": "$8,500",
+    "img": "https://img.pchome.com.tw/cs/items/QCACGMA9008DF47/000001_1503931830.jpg?width=480",
+    "href": "https://24h.pchome.com.tw/prod/QCACGM-A9008DF47"
   },
   {
     "name": "LAZULI Aquamarine 極致碳纖維長蛙板 湖水綠 含白色腳套",
@@ -342,10 +348,10 @@
     "href": "https://24h.pchome.com.tw/prod/DXBL2C-A900J9GLT"
   },
   {
-    "name": "FINIS 蝶腰訓練專用玻纖材質蹼鞋-進階款",
-    "price": "$8,500",
-    "img": "https://img.pchome.com.tw/cs/items/QCACGMA9008DF47/000001_1503931830.jpg?width=480",
-    "href": "https://24h.pchome.com.tw/prod/QCACGM-A9008DF47"
+    "name": "LAZULI Aquamarine 極致碳纖維長蛙板 湖水綠 含黑色腳套",
+    "price": "$15,800",
+    "img": "https://img.pchome.com.tw/cs/items/DXBL2CA900J9GK4/000001_1758182268.jpg?width=480",
+    "href": "https://24h.pchome.com.tw/prod/DXBL2C-A900J9GK4"
   },
   {
     "name": "LAZULI Aquamarine 極致碳纖維長蛙板 王者金 含白腳套",
@@ -354,69 +360,63 @@
     "href": "https://24h.pchome.com.tw/prod/DXBL2C-A900J9GWB"
   },
   {
-    "name": "LAZULI Aquamarine 極致碳纖維長蛙板 湖水綠 含黑色腳套",
-    "price": "$15,800",
-    "img": "https://img.pchome.com.tw/cs/items/DXBL2CA900J9GK4/000001_1758182268.jpg?width=480",
-    "href": "https://24h.pchome.com.tw/prod/DXBL2C-A900J9GK4"
-  },
-  {
-    "name": "FINIS 穿著學習游泳是一件漂亮很酷又有趣的運動除可增加孩子在水中的自信更能藉此練習游泳運動中最重要的身體核心肌像魚擺尾打水及律動的姿勢",
-    "price": "$1,360",
-    "img": "https://img.pchome.com.tw/cs/items/QCAC2MA90096LPV/000001_1530672797.jpg?width=480",
-    "href": "https://24h.pchome.com.tw/prod/QCAC2M-A90096LPV"
-  },
-  {
-    "name": "FINIS 多功能半截發泡式防寒止滑腳套",
-    "price": "$500",
-    "img": "https://img.pchome.com.tw/cs/items/QCACGMA900AGX4G/000001_1579096716.jpg?width=480",
-    "href": "https://24h.pchome.com.tw/prod/QCACGM-A900AGX4G"
-  },
-  {
     "name": "LAZULI 專用腳套 白色",
     "price": "$3,500",
-    "img": "https://img.pchome.com.tw/cs/items/DXBL2CA900J9CHL/000001_1758091540.jpg?width=480",
+    "img": "https://img.pchome.com.tw/fs/img/h24/new/index/v1/images/img/mobile_loading.svg",
     "href": "https://24h.pchome.com.tw/prod/DXBL2C-A900J9CHL"
   },
   {
     "name": "LAZULI 專用腳套 黑色",
     "price": "$3,000",
-    "img": "https://img.pchome.com.tw/cs/items/DXBL2CA900J9CIF/000001_1758092201.jpg?width=480",
+    "img": "https://img.pchome.com.tw/fs/img/h24/new/index/v1/images/img/mobile_loading.svg",
     "href": "https://24h.pchome.com.tw/prod/DXBL2C-A900J9CIF"
+  },
+  {
+    "name": "FINIS 多功能半截發泡式防寒止滑腳套",
+    "price": "$500",
+    "img": "https://img.pchome.com.tw/fs/img/h24/new/index/v1/images/img/mobile_loading.svg",
+    "href": "https://24h.pchome.com.tw/prod/QCACGM-A900AGX4G"
+  },
+  {
+    "name": "FINIS 穿著學習游泳是一件漂亮很酷又有趣的運動除可增加孩子在水中的自信更能藉此練習游泳運動中最重要的身體核心肌像魚擺尾打水及律動的姿勢",
+    "price": "$1,360",
+    "img": "https://img.pchome.com.tw/fs/img/h24/new/index/v1/images/img/mobile_loading.svg",
+    "href": "https://24h.pchome.com.tw/prod/QCAC2M-A90096LPV"
   },
   {
     "name": "Breathe 3mm長筒耐磨毛氈底防滑套鞋",
     "price": "$1,150",
-    "img": "https://img.pchome.com.tw/cs/items/DXBL2CA900GDSTX/000001_1685686899.jpg?width=480",
+    "img": "https://img.pchome.com.tw/fs/img/h24/new/index/v1/images/img/mobile_loading.svg",
     "href": "https://24h.pchome.com.tw/prod/DXBL2C-A900GDSTX"
   },
   {
     "name": "Breathe 3mm短筒耐磨毛氈底防滑套鞋",
     "price": "$950",
-    "img": "https://img.pchome.com.tw/cs/items/DXBL2CA900GDSTE/000001_1685686604.jpg?width=480",
+    "img": "https://img.pchome.com.tw/fs/img/h24/new/index/v1/images/img/mobile_loading.svg",
     "href": "https://24h.pchome.com.tw/prod/DXBL2C-A900GDSTE"
-  },
-  {
-    "name": "LAZULI Aquamarine極致碳纖維長蛙板 雅致白 含黑色腳套",
-    "price": "$16,300",
-    "img": "https://img.pchome.com.tw/cs/items/DXBL2CA900J9GQW/000001_1758184930.jpg?width=480",
-    "href": "https://24h.pchome.com.tw/prod/DXBL2C-A900J9GQW"
   },
   {
     "name": "AROPEC Spray浪花短筒分趾衝浪鞋 黑",
     "price": "$1,200",
-    "img": "https://img.pchome.com.tw/cs/items/QCAD33A90086ZT0/000001_1497509580.jpg?width=480",
+    "img": "https://img.pchome.com.tw/fs/img/h24/new/index/v1/images/img/mobile_loading.svg",
     "href": "https://24h.pchome.com.tw/prod/QCAD33-A90086ZT0"
+  },
+  {
+    "name": "LAZULI Aquamarine極致碳纖維長蛙板 雅致白 含黑色腳套",
+    "price": "$16,300",
+    "img": "https://img.pchome.com.tw/fs/img/h24/new/index/v1/images/img/mobile_loading.svg",
+    "href": "https://24h.pchome.com.tw/prod/DXBL2C-A900J9GQW"
   },
   {
     "name": "FINIS 矽膠雙色漸層美人魚鰭成人版",
     "price": "$3,980",
-    "img": "https://img.pchome.com.tw/cs/items/QCACGMA90099OIN/000001_1533037947.jpg?width=480",
+    "img": "https://img.pchome.com.tw/fs/img/h24/new/index/v1/images/img/mobile_loading.svg",
     "href": "https://24h.pchome.com.tw/prod/QCACGM-A90099OIN"
   },
   {
     "name": "LAZULI Aquamarine 極致碳纖維長蛙板 丁香紫 含白色腳套",
     "price": "$16,300",
-    "img": "https://img.pchome.com.tw/cs/items/DXBL2CA900J9GEY/000001_1758180266.jpg?width=480",
+    "img": "https://img.pchome.com.tw/fs/img/h24/new/index/v1/images/img/mobile_loading.svg",
     "href": "https://24h.pchome.com.tw/prod/DXBL2C-A900J9GEY"
   },
   {
